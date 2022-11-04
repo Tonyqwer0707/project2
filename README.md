@@ -1,7 +1,7 @@
 #專案2
 ##RBGLED燈光控制
 
-![總路圖](.0_1Button_RGBLED.png)
+![總路圖](./.0_1Button_RGBLED.png)
 
 
 ###說明
